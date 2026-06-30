@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Deep+Learning+%7C+Robotics+%7C+LLMs;Building+systems+that+actually+ship" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=azozam75&label=Profile%20views&color=00B4D8&style=flat" alt="profile views" />
+
 
 </div>
 
