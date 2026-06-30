@@ -20,7 +20,6 @@ Hi, I'm **[Abdulziz]** — a final-year **Artificial Intelligence** student base
 - 🌱 Currently leveling up on **Generative AI & Large Language Models (LLMs)**
 - 🤖 I work across **Machine Learning, Deep Learning, Robotics, and AI Security**
 - 🎯 Growing toward an **AI Engineer** role and building impactful AI in the region
-- 🏋️ Off-screen: gym, discipline, and a firm belief in **deliberate practice** — consistent reps beat bursts
 - 💬 Ask me about ML pipelines, model evaluation, clustering / SVMs, or breaking into AI
 
 ---
