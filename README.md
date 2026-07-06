@@ -13,8 +13,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **[Abdulziz]** — a final-year **Artificial Intelligence** student based in Saudi Arabia 🇸🇦, focused on building intelligent systems that go beyond the notebook and actually ship.
-
+Hi, I'm **[Abdulziz]** — a final-year **Artificial Intelligence** student based in Saudi Arabia 🇸🇦, focused on building intelligent systems
 - 🎓 Final-year **B.Sc. in Artificial Intelligence**
 - 🔭 Building an **ML & Deep Learning Intrusion Detection System** designed for enterprise-scale traffic
 - 🌱 Currently leveling up on **Generative AI & Large Language Models (LLMs)**
