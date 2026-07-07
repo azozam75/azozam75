@@ -96,6 +96,4 @@ A layered, enterprise-grade IDS combining signature-based detection with supervi
 
 ---
 
-<div align="center">
-<i>"Skill isn't a burst — it's consistent reps, every day."</i>
-</div>
+
