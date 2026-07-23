@@ -2,7 +2,7 @@
 
 <!-- Animated header — edit the lines after lines= to change the rotating text -->
 <a href="https://github.com/azozan75">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Deep+Learning+%7C+Robotics+%7C+LLMs;Building+systems+that+actually+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Deep+Learning+%7C+Robotics+%7C+LLMs" alt="Typing SVG" />
 </a>
 
 
